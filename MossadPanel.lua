@@ -4461,9 +4461,9 @@ end
 CMDs = {}
 CMDs[#CMDs + 1] = {NAME = 'discord / support / help', DESC = 'Invite to the Mossad Panel discord server.'}
 CMDs[#CMDs + 1] = {NAME = 'guiscale [number]', DESC = 'Changes the size of the gui. [number] accepts decimals and whole numbers. Min is 0.4 and Max is 2'}
-CMDs[#CMDs + 1] = {NAME = 'console', DESC = 'Opens the Roblox console'}
-CMDs[#CMDs + 1] = {NAME = 'oldconsole', DESC = 'Loads an old-themed Roblox console'}
-CMDs[#CMDs + 1] = {NAME = 'explorer / dex', DESC = 'Opens DEX by Moon'}
+CMDs[#CMDs + 1] = {NAME = 'yahuc', DESC = 'Opens the Roblox console'}
+CMDs[#CMDs + 1] = {NAME = 'oldyahuc', DESC = 'Loads an old-themed Roblox console'}
+CMDs[#CMDs + 1] = {NAME = 'mossad / mos', DESC = 'Opens Mossad by Mossad'}
 CMDs[#CMDs + 1] = {NAME = 'cobalt / cspy', DESC = 'Opens Cobalt to intercept incoming and outgoing network traffic'}
 CMDs[#CMDs + 1] = {NAME = 'remotespy / rspy', DESC = 'Opens Simple Spy V3 to intercept remote calls from the client to the server'}
 CMDs[#CMDs + 1] = {NAME = 'audiologger / alogger', DESC = 'Opens Edges audio logger'}
