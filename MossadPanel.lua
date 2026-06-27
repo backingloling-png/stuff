@@ -7785,7 +7785,7 @@ addcmd('hideiy',{},function(args, speaker)
 	end
 	minimizeNum = 0
 	minimizeHolder()
-	if not (args[1] and tostring(args[1]) == 'nonotify') then notify('IY Hidden','You can press the prefix key to access the command bar') end
+	if not (args[1] and tostring(args[1]) == 'nonotify') then notify('Mossad Panel Hidden','yo fuck you bitch re open it') end
 end)
 
 addcmd('showiy',{'unhideiy'},function(args, speaker)
